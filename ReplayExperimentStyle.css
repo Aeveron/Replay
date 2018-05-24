@@ -1,0 +1,25 @@
+﻿#replayWindow {
+    margin: 20px;
+    height: 600px;
+    width: 40%;
+    display: flex;
+    flex-direction: row-reverse;
+    float: right;
+    color: orange;
+    font-size: 25px;
+    border: 5px solid orange;
+    border-width: 10px;
+}
+
+#chatWindow {
+    margin: 20px;
+    height: 350px;
+    width: 20%;
+    display: flex;
+    flex-direction: row-reverse;
+    float: left;
+    color: orange;
+    font-size: 25px;
+    border: 5px solid orange;
+    border-width: 10px;
+}
